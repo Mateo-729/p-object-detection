@@ -1,0 +1,25 @@
+body
+{
+    background-image: url("background.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+a
+{
+    float: right;
+    font-size: 20px !important;
+    border-radius: 30px !important;
+    background-color: turquoise;
+    color: teal;
+    cursor: pointer;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+    margin-top: 60px;
+}
